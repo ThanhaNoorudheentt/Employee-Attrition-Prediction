@@ -95,11 +95,7 @@ Used IBM HR Analytics dataset.
 ## 9. Deployment
 - Built using Streamlit  
 - User inputs → Prediction + Probability  
-
-## 10. Documentation
-- README  
-- PPT  
-- GitHub repository  
+ 
 
 ---
 
