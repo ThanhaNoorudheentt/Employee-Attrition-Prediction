@@ -81,7 +81,9 @@ Used IBM HR Analytics dataset.
 ## 6. Model Building
 - Logistic Regression  
 - Decision Tree  
-- XGBoost  
+- XGBoost 
+ ## Contributors
+- Nihala Thajudeen – Feature engineering, model debugging, and testing
 
 ## 7. Model Evaluation
 - Accuracy  
