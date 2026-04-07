@@ -136,3 +136,4 @@ Used IBM HR Analytics dataset.
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+python3 -m streamlit run app.py
