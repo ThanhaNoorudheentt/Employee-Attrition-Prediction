@@ -109,6 +109,8 @@ Used IBM HR Analytics dataset.
 | Decision Tree       | 87.8%     |
 | XGBoost             | 80.6%  |
 
+Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.26
+
 ### 🔍 Key Insights:
 - Overtime increases attrition  
 - Low job satisfaction leads to higher attrition  
