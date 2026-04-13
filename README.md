@@ -105,9 +105,9 @@ Used IBM HR Analytics dataset.
 
 | Model                | Accuracy |
 |---------------------|---------|
-| Logistic Regression | XX%     |
-| Decision Tree       | XX%     |
-| XGBoost             | XX% ✅ (Best) |
+| Logistic Regression | 90.4% ✅ (Best)    |
+| Decision Tree       | 87.8%     |
+| XGBoost             | 80.6%  |
 
 ### 🔍 Key Insights:
 - Overtime increases attrition  
