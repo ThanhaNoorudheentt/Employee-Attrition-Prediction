@@ -119,15 +119,18 @@ Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.
 ---
 
 # 📸 Application Screenshots
+## 📊 Data Insights & Model Explainability
 
-## 🔹 Input Page
-(Add screenshot here)
+### Employee Attrition Overview
+![Attrition Counts](screenshots/attrition_counts.png)
 
-## 🔹 Prediction Output
-(Add screenshot here)
+### Key Drivers: Overtime and Department
+![Overtime Impact](screenshots/overtime_impact.png)
+![Department Analysis](screenshots/department_analysis.png)
 
-## 🔹 Probability Graph
-(Add screenshot here)
+### Model Interpretability (SHAP)
+![Feature Importance](screenshots/feature_importance_shap.png)
+
 
 ---
 
