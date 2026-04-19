@@ -1,11 +1,16 @@
 # Employee-Attrition-Prediction
 
 Employee Attrition Prediction Using HR Analytics  
+<<<<<<< HEAD
 https://employee-attrition-prediction-eweicxxxfwzsqezsuuavwm.streamlit.app/
+=======
+
+>>>>>>> origin/featureeng
 ---
 
 ## Team Members
 
+<<<<<<< HEAD
 - Anusree S (MSc Computer Science - Data Analytics) 
 - Thanha Noorudheen TT(MSc Data Analytics)  
 - Nihala Thajudeen  (MSc Data Science - Bio Ai)
@@ -142,3 +147,8 @@ Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 python3 -m streamlit run app.py
+=======
+- Anusree S  
+- Thanha Noorudheen TT  
+- Nihala Thajudeen  
+>>>>>>> origin/featureeng
