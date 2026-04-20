@@ -1,6 +1,8 @@
 # Employee-Attrition-Prediction
 
-Employee Attrition Prediction Using HR Analytics  
+
+Streamlit App link:
+
 https://employee-attrition-prediction-eweicxxxfwzsqezsuuavwm.streamlit.app/
 ---
 
