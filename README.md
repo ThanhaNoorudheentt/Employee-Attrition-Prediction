@@ -124,7 +124,8 @@ Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.
 ![Input the features](screenshots/intro.png)
 
 ### Prediction Visuals
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/prediction1.png)
+![Prediction](screenshots/prediction2.png)
 
 
 ---
