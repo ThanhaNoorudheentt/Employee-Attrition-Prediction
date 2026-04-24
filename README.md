@@ -1,16 +1,11 @@
 # Employee-Attrition-Prediction
 
 Employee Attrition Prediction Using HR Analytics  
-<<<<<<< HEAD
 https://employee-attrition-prediction-eweicxxxfwzsqezsuuavwm.streamlit.app/
-=======
-
->>>>>>> origin/featureeng
 ---
 
 ## Team Members
 
-<<<<<<< HEAD
 - Anusree S (MSc Computer Science - Data Analytics) 
 - Thanha Noorudheen TT(MSc Data Analytics)  
 - Nihala Thajudeen  (MSc Data Science - Bio Ai)
@@ -106,15 +101,15 @@ Used IBM HR Analytics dataset.
 
 ---
 
-# 📈 Results Summary
+### Model Comparison & Results
 
-| Model                | Accuracy |
-|---------------------|---------|
-| Logistic Regression | 90.4% ✅ (Best)    |
-| Decision Tree       | 87.8%     |
-| XGBoost             | 80.6%  |
+| Model               | Accuracy | Precision (Attrition) | Recall (Attrition) | F1-Score (Attrition) |
+|---------------------|----------|-----------------------|--------------------|----------------------|
+| Logistic Regression | 81.63%   | 0.45                  | 0.72               | 0.56                 |
+| Decision Tree       | 78.23%   | 0.38                  | 0.55               | 0.45                 |
+| **XGBoost**         | **84.69%** | **0.55**            | **0.26**           | **0.35**             |
 
-Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.26
+### ✅ Best Model: XGBoost — 84.7% Accuracy
 
 ### 🔍 Key Insights:
 - Overtime increases attrition  
@@ -147,8 +142,3 @@ Recall scores for: Logistic Regression: 0.35 | XGBoost: 0.23 | Decision Tree: 0.
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 python3 -m streamlit run app.py
-=======
-- Anusree S  
-- Thanha Noorudheen TT  
-- Nihala Thajudeen  
->>>>>>> origin/featureeng
