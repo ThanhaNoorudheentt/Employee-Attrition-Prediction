@@ -36,7 +36,32 @@ This project aims to predict whether an employee is likely to leave the company 
 
 ---
 
-# 📊 Dataset Description
+# � Project Structure
+
+```text
+.
+├── screenshots/          # Application UI images
+├── app.py                # Streamlit web application
+├── employee.ipynb        # Data analysis and model training notebook
+├── model.pkl             # Trained XGBoost model
+├── scaler.pkl            # Feature scaler
+├── columns.pkl           # List of features for consistency
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+```
+
+# 🛠️ Tech Stack
+
+- **Language:** Python 3.12+
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Explainability:** SHAP
+- **Dashboard:** Streamlit
+- **Data Handling:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+
+---
+
+# �📊 Dataset Description
 
 - **Dataset Name:** IBM HR Analytics Employee Attrition Dataset  
 - **Source:** [Kaggle / IBM Sample Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
@@ -140,8 +165,18 @@ Weighted Average Recall: XGBoost: 0.85 | Logistic Regression: 0.82 | Decision Tr
 # 🚀 How to Run Locally
 
 ## 🔹 Step 1: Clone Repository
-
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-python3 -m streamlit run app.py
+git clone https://github.com/ThanhaNoorudheentt/Employee-Attrition-Prediction.git
+cd Employee-Attrition-Prediction
+```
+
+## 🔹 Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## 🔹 Step 3: Run the Application
+```bash
+streamlit run app.py
+```
+
