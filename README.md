@@ -30,7 +30,7 @@ This project aims to predict whether an employee is likely to leave the company 
 
 ---
 
-# � Project Structure
+# Project Structure
 
 ```text
 .
@@ -55,7 +55,7 @@ This project aims to predict whether an employee is likely to leave the company 
 
 ---
 
-# �📊 Dataset Description
+# 📊 Dataset Description
 
 - **Dataset Name:** IBM HR Analytics Employee Attrition Dataset  
 - **Source:** [Kaggle / IBM Sample Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
