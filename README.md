@@ -1,11 +1,5 @@
 # Employee-Attrition-Prediction
 
-
-Streamlit App link:
-
-https://employee-attrition-prediction-eweicxxxfwzsqezsuuavwm.streamlit.app/
----
-
 ## Team Members
 
 - Anusree S (MSc Computer Science - Data Analytics) 
@@ -149,6 +143,11 @@ Weighted Average Recall: XGBoost: 0.85 | Logistic Regression: 0.82 | Decision Tr
 - Low monthly income and low job satisfaction correlates strongly with higher attrition rates.
 
 ---
+# 🌐 Live Demo
+
+Try the deployed Streamlit application here:
+
+https://employee-attrition-prediction-eweicxxxfwzsqezsuuavwm.streamlit.app/
 
 # 📸 Application Screenshots
 ## 📊 Input form
